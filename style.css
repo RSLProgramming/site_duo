@@ -1,0 +1,9 @@
+html, body{
+    align-items: center;
+    text-align: center;
+    font-display: flex;
+}
+
+#Nome_do_Site{
+    align-items: center;
+}
